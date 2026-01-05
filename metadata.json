@@ -2,12 +2,12 @@
   "name": "Winter",
   "symbol": "wntr",
   "description": "Teasing Metadata",
-  "image": "https://arweave.net/link-to-your-image/https/https://github.com/sekwall/WinterTest/blob/main/winter.jpg",
+  "image": "https://github.com/sekwall/WinterTest/winter.jpg",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/sekwall/WinterTest/blob/main/winter.jpg",
+        "uri": "https://github.com/sekwall/WinterTest/winter.jpg",
         "type": "image/png"
       }
     ]
