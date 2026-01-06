@@ -2,12 +2,12 @@
   "name": "Winter",
   "symbol": "wntr",
   "description": "Teasing Metadata",
-  "image": "https://github.com/sekwall/WinterTest/winter.jpg",
+  "image": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.jpg",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/sekwall/WinterTest/winter.jpg",
+        "uri": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.jpg",
         "type": "image/png"
       }
     ]
