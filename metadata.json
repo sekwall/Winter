@@ -1,13 +1,13 @@
 {
   "name": "Winter",
-  "symbol": "wntr",
-  "description": "Teasing Metadata",
-  "image": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.jpg",
+  "symbol": "WNTR",
+  "description": "Winter Coin",
+  "image": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.jpg",
+        "uri": "https://raw.githubusercontent.com/sekwall/WinterTest/main/winter.png",
         "type": "image/png"
       }
     ]
