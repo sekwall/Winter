@@ -1,2 +1,2 @@
-# WinterTest
-Testing Github Functionality
+# Winter
+Solana Coin on DevNet
