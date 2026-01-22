@@ -1,13 +1,13 @@
 {
   "name": "WinterScene",
   "symbol": "WINS",
-  "description": "Winter Coin",
-  "image": "https://raw.githubusercontent.com/sekwall/Winter/main/Winter.png",
+  "description": "WinterScene",
+  "image": "https://raw.githubusercontent.com/sekwall/Winter/refs/heads/main/WinterScene.PNG",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/sekwall/Winter/main/Winter.png",
+        "uri": "https://raw.githubusercontent.com/sekwall/Winter/refs/heads/main/WinterScene.PNG",
         "type": "image/png"
       }
     ]
